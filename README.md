@@ -57,6 +57,6 @@ that
 The produced descriptors match those from the binary nearly perfectly (in particular,
 the sequence of numbers is the same), sometimes some values are off by 1. I don't
 know why that is (```vl_sift_calc_keypoint_descriptor``` produces two different
-descriptors on seemingly identical input). If some has an idea (or, more probable,
+descriptors on seemingly identical input). If somebody has an idea (or, more probable,
 I'm doing something stupid here), please let me know.
 
